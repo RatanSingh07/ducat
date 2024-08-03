@@ -1,0 +1,2 @@
+# ducat
+first-project
